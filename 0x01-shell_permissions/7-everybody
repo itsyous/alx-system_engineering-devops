@@ -1,0 +1,2 @@
+#!/bin/bash
+chmo u+x,g+x,o+x hello
