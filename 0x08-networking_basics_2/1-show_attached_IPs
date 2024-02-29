@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#the script display all active IPv4 IPs on machines will
+#be executed on
+
+hostname -I | cut -d' ' -f1 ; hostname -i
