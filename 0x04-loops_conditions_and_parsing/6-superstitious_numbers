@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # display numbers from 1 to 20 in addition to:
-     "bad luck from China" for 4th iteration
-     "bad luck from Japan" for 9th iteration
-     "bad luck from Italy" for the 17th iteration
+# "bad luck from China" for 4th iteration
+# "bad luck from Japan" for 9th iteration
+# "bad luck from Italy" for the 17th iteration
 
 count=1
 
